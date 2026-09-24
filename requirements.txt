@@ -1,0 +1,7 @@
+```txt
+SpeechRecognition
+PyAudio
+pyttsx3
+requests
+gTTS
+pygame
